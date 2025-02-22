@@ -4,7 +4,7 @@ This is the source code for my personal portfolio website. It showcases my skill
 
 ## Sections
 
-- **About**: A brief introduction about myself.
+- **About**: Passionate engineer intrested in identifying real engieering problems and troubleshoot with basic science tech.
 - **Skills**: A list of my professional skills.
 - **Projects**: Details of the projects I have worked on.
 - **Contact**: My contact information including email, LinkedIn, and GitHub.
